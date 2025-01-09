@@ -20,7 +20,9 @@ export const KNOWN_HOSTS = [
   'wallet.ambire.com',
   'multisig.moonbeam.network',
   'worldassociation.org',
-  'safe.mainnet.frax.com'
+  'safe.mainnet.frax.com',
+  'safe.fantom.network',
+  'safe.apechain.com'
 ];
 
 // All subdomains of these domains are allowed
